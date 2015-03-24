@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.79.1 (TeX Live 2014/Debian) (rev 4971)  (format=lualatex 2015.3.23)  24 MAR 2015 02:24
+This is LuaTeX, Version beta-0.79.1 (TeX Live 2014/Debian) (rev 4971)  (format=lualatex 2015.3.24)  24 MAR 2015 16:38
  restricted \write18 enabled.
 **urdeveloper.tex
 (./urdeveloper.tex
@@ -1092,8 +1092,9 @@ Lua module: luaotfload-main 2014/07/13 2.5 OpenType layout system.
 
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-log.lua)
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-fontloader.lua)(
-using write cache: /home/doki/.texmf-var/luatex-cache/generic)(using read cache:
- /var/lib/texmf/luatex-cache/generic /home/doki/.texmf-var/luatex-cache/generic)
+using write cache: /home/dkirpichenkov/.texmf-var/luatex-cache/generic)(using re
+ad cache: /var/lib/texmf/luatex-cache/generic /home/dkirpichenkov/.texmf-var/lua
+tex-cache/generic)
 luatexbase-attr: luatexbase.attributes["luaotfload@kernpair"] = 1
 luatexbase-attr: luatexbase.attributes["luaotfload@ligacomp"] = 2
 luatexbase-attr: luatexbase.attributes["luaotfload@markbase"] = 3
@@ -1103,7 +1104,7 @@ luatexbase-attr: luatexbase.attributes["luaotfload@cursbase"] = 6
 luatexbase-attr: luatexbase.attributes["luaotfload@curscurs"] = 7
 luatexbase-attr: luatexbase.attributes["luaotfload@cursdone"] = 8
 luatexbase-attr: luatexbase.attributes["luaotfload@state"] = 9
-luaotfload | main : fontloader loaded in 0.021 seconds
+luaotfload | main : fontloader loaded in 0.016 seconds
 luatexbase-mcb: inserting 'luaotfload.node_processor'
 at position 1 in 'pre_linebreak_filter'
 luatexbase-mcb: inserting 'luaotfload.node_processor'
@@ -1115,13 +1116,13 @@ at position 1 in 'find_vf_file'
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-configuration.lu
 a)
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-status.lua)
-luaotfload | conf : Root cache directory is /home/doki/.texmf-var/luatex-cache/g
-eneric/names.
+luaotfload | conf : Root cache directory is /home/dkirpichenkov/.texmf-var/luate
+x-cache/generic/names.
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-loaders.lua)
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-database.lua)
 (/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-colors.lua)
-luaotfload | conf : Root cache directory is /home/doki/.texmf-var/luatex-cache/g
-eneric/names.
+luaotfload | conf : Root cache directory is /home/dkirpichenkov/.texmf-var/luate
+x-cache/generic/names.
 luatexbase-mcb: creating 'luaotfload.resolve_font' type 4
 luatexbase-mcb: creating 'luaotfload.patch_font' type 4
 luatexbase-mcb: resetting callback 'define_font'
@@ -1181,10 +1182,10 @@ LaTeX Font Info:    Try loading font information for EU2+lmr on input line 100.
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu2lmr.fd
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-luaotfload | db : Font names database loaded from /home/doki/.texmf-var/luatex-c
-ache/generic/names/luaotfload-names.luc(compiling luc: /var/lib/texmf/luatex-cac
-he/generic/fonts/otf/lmroman10-regular.luc)(load luc: /home/doki/.texmf-var/luat
-ex-cache/generic/fonts/otf/lmroman10-regular.luc))
+luaotfload | db : Font names database loaded from /home/dkirpichenkov/.texmf-var
+/luatex-cache/generic/names/luaotfload-names.luc(compiling luc: /var/lib/texmf/l
+uatex-cache/generic/fonts/otf/lmroman10-regular.luc)(load luc: /home/dkirpichenk
+ov/.texmf-var/luatex-cache/generic/fonts/otf/lmroman10-regular.luc))
 (/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
@@ -1194,20 +1195,19 @@ File: t3enc.def 2001/12/31 T3 encoding
 NowhandlingfontencodingT3...
 ...noUTF-8mappingfileforfontencodingT3
 (compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/otf/lmromanslant10-reg
-ular.luc)(load luc: /home/doki/.texmf-var/luatex-cache/generic/fonts/otf/lmroman
-slant10-regular.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/ot
-f/lmroman10-italic.luc)(load luc: /home/doki/.texmf-var/luatex-cache/generic/fon
-ts/otf/lmroman10-italic.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic/
-fonts/otf/lmroman10-bold.luc)(load luc: /home/doki/.texmf-var/luatex-cache/gener
-ic/fonts/otf/lmroman10-bold.luc)
+ular.luc)(load luc: /home/dkirpichenkov/.texmf-var/luatex-cache/generic/fonts/ot
+f/lmromanslant10-regular.luc)(compiling luc: /var/lib/texmf/luatex-cache/generic
+/fonts/otf/lmroman10-italic.luc)(load luc: /home/dkirpichenkov/.texmf-var/luatex
+-cache/generic/fonts/otf/lmroman10-italic.luc)(compiling luc: /var/lib/texmf/lua
+tex-cache/generic/fonts/otf/lmroman10-bold.luc)(load luc: /home/dkirpichenkov/.t
+exmf-var/luatex-cache/generic/fonts/otf/lmroman10-bold.luc)
 LaTeX Font Info:    Try loading font information for EU2+lmss on input line 357.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu2lmss.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu2lmss.fd
 File: eu2lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )(compiling luc: /var/lib/texmf/luatex-cache/generic/fonts/otf/lmsans10-regular.
-luc)(load luc: /home/doki/.texmf-var/luatex-cache/generic/fonts/otf/lmsans10-reg
-ular.luc))
+luc)(load luc: /home/dkirpichenkov/.texmf-var/luatex-cache/generic/fonts/otf/lms
+ans10-regular.luc))
 \tipaTiiicode=\count315
 \tipasavetokens=\toks46
 \tipachecktokens=\toks47
@@ -1330,25 +1330,25 @@ LaTeX Info: Redefining \upshape on input line 2132.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 \g__file_internal_ior=\read2
-luaotfload | cache : Lookup cache loaded from /home/doki/.texmf-var/luatex-cache
-/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from /home/dkirpichenkov/.texmf-var/lua
+tex-cache/generic/names/luaotfload-lookup-cache.luc.
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"(compiling luc: /var/
-lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-r.luc)(load luc: /home/doki/.tex
-mf-var/luatex-cache/generic/fonts/otf/ubuntu-r.luc)
+lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-r.luc)(load luc: /home/dkirpiche
+nkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntu-r.luc)
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 \g__fontspec_family_Ubuntu_int=\count317
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-BI.ttf"(compiling luc: /var
-/lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-bi.luc)(load luc: /home/doki/.t
-exmf-var/luatex-cache/generic/fonts/otf/ubuntu-bi.luc)
+/lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-bi.luc)(load luc: /home/dkirpic
+henkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntu-bi.luc)
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-B.ttf"(compiling luc: /var/
-lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-b.luc)(load luc: /home/doki/.tex
-mf-var/luatex-cache/generic/fonts/otf/ubuntu-b.luc)
+lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-b.luc)(load luc: /home/dkirpiche
+nkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntu-b.luc)
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-RI.ttf"(compiling luc: /var
-/lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-ri.luc)(load luc: /home/doki/.t
-exmf-var/luatex-cache/generic/fonts/otf/ubuntu-ri.luc)
+/lib/texmf/luatex-cache/generic/fonts/otf/ubuntu-ri.luc)(load luc: /home/dkirpic
+henkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntu-ri.luc)
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | aux : font no 22 (Ubuntu) does not define feature smcp for script l
@@ -1414,21 +1414,21 @@ luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"(compiling lu
 c: /var/lib/texmf/luatex-cache/generic/fonts/otf/ubuntumono-r.luc)(load luc: /ho
-me/doki/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-r.luc)
+me/dkirpichenkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-r.luc)
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"
 \g__fontspec_family_UbuntuMono_int=\count318
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-BI.ttf"(compiling l
 uc: /var/lib/texmf/luatex-cache/generic/fonts/otf/ubuntumono-bi.luc)(load luc: /
-home/doki/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-bi.luc)
+home/dkirpichenkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-bi.luc)
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-B.ttf"(compiling lu
 c: /var/lib/texmf/luatex-cache/generic/fonts/otf/ubuntumono-b.luc)(load luc: /ho
-me/doki/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-b.luc)
+me/dkirpichenkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-b.luc)
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-RI.ttf"(compiling l
 uc: /var/lib/texmf/luatex-cache/generic/fonts/otf/ubuntumono-ri.luc)(load luc: /
-home/doki/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-ri.luc)
+home/dkirpichenkov/.texmf-var/luatex-cache/generic/fonts/otf/ubuntumono-ri.luc)
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"
 luaotfload | load : Lookup/name: "UbuntuMono" -> "UbuntuMono-R.ttf"
 luaotfload | aux : font no 27 (UbuntuMono-Regular) does not define feature smcp 
@@ -1494,31 +1494,31 @@ luaotfload | aux : no font with id 28
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
 .................................................
  (./urdeveloper.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for EU2/lmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 43.
 
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    ... okay on input line 43.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1584,7 +1584,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box272
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1594,68 +1594,68 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./urdeveloper.out) (./urdeveloper.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 42.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/Ubuntu(0)/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> OT1/Ubuntu(0)/m/n on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/Ubuntu(0)/bx/n on input line 42.
+(Font)                  OT1/cmss/bx/n --> OT1/Ubuntu(0)/bx/n on input line 43.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/Ubuntu(0)/m/n --> EU2/Ubuntu(0)/m/n on input line 42
+(Font)                  OT1/Ubuntu(0)/m/n --> EU2/Ubuntu(0)/m/n on input line 43
 .
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 42.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> EU2/Ubuntu(0)/bx/n on input line 42.
+(Font)                  OT1/lmr/bx/n --> EU2/Ubuntu(0)/bx/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> EU2/Ubuntu(0)/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 42.
+(Font)                  OT1/lmr/bx/n --> EU2/Ubuntu(0)/bx/n on input line 43.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> EU2/Ubuntu(0)/m/n on input line 42.
+(Font)                  OT1/lmss/m/n --> EU2/Ubuntu(0)/m/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> EU2/Ubuntu(0)/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 42.
+(Font)                  OT1/lmss/bx/n --> EU2/Ubuntu(0)/m/n on input line 43.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> EU2/Ubuntu(0)/m/it on input line 42.
+(Font)                  OT1/lmr/m/it --> EU2/Ubuntu(0)/m/it on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> EU2/Ubuntu(0)/m/it on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 42.
+(Font)                  OT1/lmr/bx/it --> EU2/Ubuntu(0)/m/it on input line 43.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> EU2/UbuntuMono(0)/m/n on input line 42.
+(Font)                  OT1/lmtt/m/n --> EU2/UbuntuMono(0)/m/n on input line 43.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> EU2/UbuntuMono(0)/m/n on input line 42.
+(Font)                  OT1/lmtt/m/n --> EU2/UbuntuMono(0)/m/n on input line 43.
 
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 (Font)                  EU2/Ubuntu(0)/m/n --> EU2/Ubuntu(0)/bx/n on input line 4
-2.
+3.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  EU2/Ubuntu(0)/m/it --> EU2/Ubuntu(0)/bx/it on input line
- 42.
+ 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  OT1/Ubuntu(0)/bx/n --> EU2/Ubuntu(0)/bx/n on input line 
-42.
+43.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  EU2/Ubuntu(0)/bx/n --> EU2/Ubuntu(0)/bx/n on input line 
-42.
+43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  EU2/Ubuntu(0)/m/n --> EU2/Ubuntu(0)/bx/n on input line 4
-2.
+3.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  EU2/Ubuntu(0)/m/it --> EU2/Ubuntu(0)/bx/it on input line
- 42.
+ 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  EU2/UbuntuMono(0)/m/n --> EU2/UbuntuMono(0)/bx/n on inpu
-t line 42.
+t line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1681,7 +1681,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 42.
+LaTeX Info: Redefining \includegraphics on input line 43.
  (./urdeveloper.nav)
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
@@ -1694,49 +1694,50 @@ luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf"
 ] [3
 
 ]
-<./vostorg2.png, id=46, 731.73375pt x 619.31375pt>
-File: ./vostorg2.png Graphic file (type png)
- <use ./vostorg2.png>
-Package pdftex.def Info: ./vostorg2.png used on input line 79.
-(pdftex.def)             Requested size: 189.30847pt x 160.22398pt.
+<./multi_fun.png, id=46, 798.985pt x 533.995pt>
+File: ./multi_fun.png Graphic file (type png)
+ <use ./multi_fun.png>
+Package pdftex.def Info: ./multi_fun.png used on input line 84.
+(pdftex.def)             Requested size: 224.34824pt x 149.94548pt.
+ [4
 
-Overfull \hbox (17.21082pt too wide) in paragraph at lines 79--79
-[][][]  
- []
-
+<./multi_fun.png>]
 LaTeX Font Info:    Try loading font information for OT1+Ubuntu(0) on input line
- 79.
-LaTeX Font Info:    No file OT1Ubuntu(0).fd. on input line 79.
+ 109.
+LaTeX Font Info:    No file OT1Ubuntu(0).fd. on input line 109.
+
 
 LaTeX Font Warning: Font shape `OT1/Ubuntu(0)/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 79.
+(Font)              using `OT1/cmr/m/n' instead on input line 109.
 
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 79.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 109.
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 109.
+
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 79.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 109.
+
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 79.
+(Font)              <10> on input line 109.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 79.
+(Font)              <7> on input line 109.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 79.
-LaTeX Font Info:    Try loading font information for U+msa on input line 79.
+(Font)              <5> on input line 109.
+LaTeX Font Info:    Try loading font information for U+msa on input line 109.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 79.
+LaTeX Font Info:    Try loading font information for U+msb on input line 109.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1744,82 +1745,99 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-RI.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-RI.ttf"
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-RI.ttf"
-<./child01.png, id=47, 952.55875pt x 521.95pt>
-File: ./child01.png Graphic file (type png)
- <use ./child01.png>
-Package pdftex.def Info: ./child01.png used on input line 79.
-(pdftex.def)             Requested size: 189.30847pt x 103.72711pt.
+<./intern.png, id=54, 322.20375pt x 455.7025pt>
+File: ./intern.png Graphic file (type png)
+ <use ./intern.png>
+Package pdftex.def Info: ./intern.png used on input line 109.
+(pdftex.def)             Requested size: 86.04883pt x 121.6993pt.
 
-Overfull \hbox (17.21082pt too wide) in paragraph at lines 79--79
-[][][]  
- []
-
-<./child02.png, id=48, 834.11626pt x 617.30624pt>
-File: ./child02.png Graphic file (type png)
- <use ./child02.png>
-Package pdftex.def Info: ./child02.png used on input line 79.
-(pdftex.def)             Requested size: 189.30847pt x 140.09358pt.
-
-Overfull \hbox (17.21082pt too wide) in paragraph at lines 79--79
-[][][]  
- []
-
-
-Overfull \vbox (23.90997pt too high) detected at line 79
- []
-
-[4
-
-<./vostorg2.png><./child01.png><./child02.png>]
+<./senior.png, id=55, 245.91875pt x 359.3425pt>
+File: ./senior.png Graphic file (type png)
+ <use ./senior.png>
+Package pdftex.def Info: ./senior.png used on input line 109.
+(pdftex.def)             Requested size: 83.29414pt x 121.70876pt.
 luaotfload | load : Lookup/name: "Ubuntu" -> "Ubuntu-R.ttf" [5
 
-] [6
+<./intern.png><./senior.png>] [6
 
-] [7
+] <./ruby.png, id=71, 400.49625pt x 292.09125pt>
+File: ./ruby.png Graphic file (type png)
 
-] [8
+<use ./ruby.png>
+Package pdftex.def Info: ./ruby.png used on input line 144.
+(pdftex.def)             Requested size: 137.67865pt x 100.41057pt.
+ <./enterprise.png, id=72, 594.22pt x 459.7175pt>
+File: ./enterprise.png Graphic file (type png)
 
-] [9
+<use ./enterprise.png>
+Package pdftex.def Info: ./enterprise.png used on input line 144.
+(pdftex.def)             Requested size: 137.67865pt x 106.51143pt.
+ [7
+
+<./ruby.png><./enterprise.png>]
+<./imrich.png, id=80, 356.33125pt x 342.27875pt>
+File: ./imrich.png Graphic file (type png)
+ <use ./imrich.png>
+Package pdftex.def Info: ./imrich.png used on input line 150.
+(pdftex.def)             Requested size: 137.67603pt x 132.24515pt.
+ [8
+
+<./imrich.png>] [9
 
 ] [10
 
-]
-[11
+] <./run_dos_run.png, id=102, 575.14874pt x 428.60126pt>
+File: ./run_dos_run.png Graphic file (type png)
 
-]
+<use ./run_dos_run.png>
+Package pdftex.def Info: ./run_dos_run.png used on input line 185.
+(pdftex.def)             Requested size: 275.3573pt x 205.20306pt.
+ [11
+
+<./run_dos_run.png>]
+<./developer.png, id=110, 562.1pt x 331.2375pt>
+File: ./developer.png Graphic file (type png)
+ <use ./developer.png>
+Package pdftex.def Info: ./developer.png used on input line 193.
+(pdftex.def)             Requested size: 275.3573pt x 162.2623pt.
+ [12
+
+<./developer.png>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
  (./urdeveloper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
 Package rerunfilecheck Info: File `urdeveloper.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33906 strings out of 493788
+ 33963 strings out of 493788
  100000,953878 words of node,token memory allocated
- 1939 words of node memory still in use:
-   43 hlist, 14 vlist, 9 rule, 59 glue, 8 kern, 17 penalty, 6 glyph, 72 attribut
-e, 88 glue_spec, 66 attribute_list, 3 write, 8 local_par, 32 pdf_colorstack node
-s
-   avail lists: 2:1272,3:327,4:407,5:58,6:503,7:21,8:5,9:213,10:52
- 36312 multiletter control sequences out of 65536+600000
+ 2183 words of node memory still in use:
+   51 hlist, 14 vlist, 9 rule, 70 glue, 8 kern, 20 penalty, 6 glyph, 83 attribut
+e, 95 glue_spec, 77 attribute_list, 3 write, 9 local_par, 1 pdf_refximage, 34 pd
+f_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:1595,3:371,4:570,5:63,6:633,7:21,8:5,9:304,10:99
+ 36352 multiletter control sequences out of 65536+600000
  53 fonts using 5473767 bytes
- 56i,17n,60p,397b,503s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-R.ttf>
-Output written on urdeveloper.pdf (11 pages, 3165476 bytes).
+ 56i,17n,60p,397b,606s stack positions out of 5000i,500n,10000p,200000b,100000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/fonts/truetype/ub
+untu-font-family/Ubuntu-R.ttf><</usr/share/texmf/fonts/type1/public/lm/lmsy10.pf
+b>
+Output written on urdeveloper.pdf (12 pages, 2481939 bytes).
 
-PDF statistics: 116 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 131072)
+PDF statistics: 133 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 131072)
  40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
