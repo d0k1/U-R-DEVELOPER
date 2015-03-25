@@ -54,7 +54,7 @@
 \item Время разработки 10 лет
 \item 3 перерождения: python, java, brand new java с GWT
 \item 3 000 000 строк java-кода, 125 000 строк XML файлов,  60 000 строк скриптов
-\item Комманда из 20 разработчиков
+\item Команда из 20 разработчиков
 \end{itemize}
 
 \end{frame}
@@ -62,17 +62,38 @@
 \begin{frame}
 \frametitle{Read,Code,Debug,Test... Repeat} 
 
-\begin{enumerate}
+\begin{columns}[T]
+	\column{0.3\textwidth}
+		\center
+			Общие алгоритм работы
+		\begin{enumerate}
 
-	\item взять задачу;
-	\item прочитать требования;
-	\item реализовать;
-	\item показать реализацию;
-	\item отдать в тестирование;
-	\item goto 2.
+			\item прочитать требования;
+			\item реализовать;
+			\item показать реализацию;
+			\item отдать в тестирование;
+			\item goto 1/goto 2.
 	
-\end{enumerate}
-
+		\end{enumerate}
+	\column{0.3\textwidth}
+		\center
+			Исправление дефектов
+		\begin{enumerate}
+			\item воспроизвести дефект;
+			\item проанализировать причины;
+			\item исправить поведение.
+		\end{enumerate}
+	\column{0.3\textwidth}
+		\center
+			Улучшение (производительности) продукта
+		\begin{enumerate}
+			\item проанализировать проблему;
+			\item замерить текущие показатели;
+			\item исправить;
+			\item замерить новые показатели;
+			\item goto 3.
+		\end{enumerate}
+	\end{columns}
 \end{frame}
 
 \begin{frame}
@@ -96,7 +117,6 @@
 			\item Стажер
 			\item Разработчик
 			\item Ведущий разработчик
-			\item Главный разработчик
 		\end{itemize}
 
 	\column{0.5\textwidth}
@@ -109,25 +129,19 @@
 \end{frame}
 
 \begin{frame}
+	\frametitle{ Типы программистов }
+		\begin{itemize}
+			\item Embedded разработка
+			\item Enterprise разработка
+			\item Mobile разработка
+		\end{itemize}		
+\end{frame}
+
+
+\begin{frame}
 \frametitle{ Embedded решения }
-\begin{columns}
-	\column{0.5\textwidth}
-
-		\begin{itemize}
-			\item много итересных задач;
-			\item получение уникального опыта.
-		\end{itemize}
-
-	\column{0.5\textwidth}
-		\begin{itemize}
-			\item довольно высокая сложность любой задачи;
-			\item новые технологии и принципы разработки очень редко тут появляются.
-		\end{itemize}
-
-\end{columns}
-
-Например, 1024 \div 2 \equiv 1024 \gg 1
-
+	\center
+		\includegraphics[width=0.7\textwidth]{./rasbery.png}
 \end{frame}
 
 
@@ -188,7 +202,9 @@
 \frametitle{ Finale }
 
 \center
-	\includegraphics[width=0.8\textwidth]{./developer.png}
+	\includegraphics[width=0.4\textwidth]{./github.png}
+
+	https://github.com/d0k1/U-R-DEVELOPER
 
 \end{frame}
 
