@@ -52,9 +52,9 @@
 
 \begin{itemize}
 \item Время разработки 10 лет
-\item 3 перерождения: python, java, brand new java с GWT
-\item 3 000 000 строк java-кода, 125 000 строк XML файлов,  60 000 строк скриптов
-\item Команда из 20 разработчиков
+\item 3 перерождения: Python, Java + JSP, Java + GWT
+\item 3 000 000 строк java-кода, 60 000 строк скриптов
+\item Распределенная команда из 20 разработчиков в 3 городах
 \end{itemize}
 
 \end{frame}
@@ -108,9 +108,7 @@
 \frametitle{void function career() \{ while(1) \{ doCodeALot() \} \} }
 \framesubtitle{ обощенный путь разработчика }
 
-Карьера разработчика:
-
-\begin{columns}
+\begin{columns}[T]
 	\column{0.5\textwidth}
 
 		\begin{itemize}
@@ -150,8 +148,10 @@
 
 \begin{columns}
 	\column{0.5\textwidth}
+		Версия 1.0
 		\includegraphics[width=0.8\textwidth]{./ruby.png}
 	\column{0.5\textwidth}
+		Версия 18.5.2.8
 		\includegraphics[width=0.8\textwidth]{./enterprise.png}
 \end{columns}
 
@@ -183,12 +183,27 @@
 Есть матрица M x N. 
 
 \par
-Цель: обойти все элементы матрицы наиболее эффективным способом.
+\[
+  M=
+  \left[ {\begin{array}{ccccc}
+   1 & 2 & 3 & 4 & 5\\
+   3 & 4 & 5 & 6 & 7\\
+  \end{array} } \right]
+\]
 
 \par
-Как это лучше сделать по колонкам или по строкам матрицы?
+Цель: обработать все элементы матрицы наиболее эффективным способом.
+
+\par
+Как это более эффективно сделать, с точки зрения быстродействия, по колонкам или по строкам матрицы?
 
 \end{frame}
+
+\begin{frame}
+\frametitle{ Caveat! }
+	\center
+		\includegraphics[width=0.8\textwidth]{./antipattern.png}
+\end {frame}
 
 \begin{frame}
 \frametitle{ Finale }
